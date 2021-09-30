@@ -1,3 +1,7 @@
+https://github.com/gcp70908/openwrt-packages/blob/master/luci-app-ssr-plus/Makefile
+
+	+shadowsocks-libev-ss-redir +simple-obfs \
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzok8&show_icons=true&theme=radical)
 <div align="center">
 <h1 align="center"openwrt-packages</h1>
