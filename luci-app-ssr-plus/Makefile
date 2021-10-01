@@ -24,7 +24,6 @@ LUCI_PKGARCH:=all
 LUCI_DEPENDS:=+coreutils +coreutils-base64 +dns2socks +dnsmasq-full +ipset \
 	+ip-full +iptables-mod-tproxy +lua +libuci-lua +microsocks +pdnsd-alt \
 	+tcping +resolveip +shadowsocksr-libev-ssr-check +uclient-fetch \
-	+shadowsocks-libev-ss-redir +simple-obfs \
 	+PACKAGE_$(PKG_NAME)_INCLUDE_Kcptun:kcptun-client \
 	+PACKAGE_$(PKG_NAME)_INCLUDE_NaiveProxy:naiveproxy \
 	+PACKAGE_$(PKG_NAME)_INCLUDE_Redsocks2:redsocks2 \
